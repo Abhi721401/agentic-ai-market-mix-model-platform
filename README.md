@@ -8,7 +8,10 @@
 
 ---
 ## 📸 Dashboard Preview
-<img width="400" height="225" alt="preview" src="https://github.com/user-attachments/assets/feb0c42a-d97d-4589-bf65-3de536638903" />
+
+https://github.com/user-attachments/assets/54675ef6-ff0d-43d7-a445-2a03ee65cb0e
+
+
 
 ## 🎥 Demo Video
 [Download / Watch Demo Video](assets/Demo_Video.mp4)
