@@ -8,8 +8,7 @@
 
 ---
 ## 📸 Dashboard Preview
-
-![Dashboard](assets/chat_with_data.png)
+<img width="400" height="225" alt="preview" src="https://github.com/user-attachments/assets/feb0c42a-d97d-4589-bf65-3de536638903" />
 
 ## 🎥 Demo Video
 [Download / Watch Demo Video](assets/Demo_Video.mp4)
