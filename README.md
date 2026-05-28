@@ -9,7 +9,7 @@
 ---
 ## 🎥 Demo Video
 
-<video src="assets/Demo_Video.mp4" controls width="800"></video>
+[Download / Watch Demo Video](assets/Demo_Video.mp4)
 
 ## 🏗️ Architecture
 
