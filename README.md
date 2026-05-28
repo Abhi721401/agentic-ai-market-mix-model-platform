@@ -7,8 +7,10 @@
 > A production-quality, Marketing Mix Modeling platform combining econometrics, Bayesian inference, forecasting, budget optimization, explainable AI, and LLM agents — all in one Streamlit dashboard.
 
 ---
-## 🎥 Demo Video
+## 🎥 Demo Preview
 
+<video src="assets/preview.mp4" controls width="800"></video>
+## 🎥 Demo Video
 [Download / Watch Demo Video](assets/Demo_Video.mp4)
 
 ## 🏗️ Architecture
