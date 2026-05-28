@@ -4,7 +4,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.30-red.svg)](https://streamlit.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-> A production-quality, **100% free-to-build** Marketing Mix Modeling platform combining econometrics, Bayesian inference, forecasting, budget optimization, explainable AI, and LLM agents — all in one Streamlit dashboard.
+> A production-quality, Marketing Mix Modeling platform combining econometrics, Bayesian inference, forecasting, budget optimization, explainable AI, and LLM agents — all in one Streamlit dashboard.
 
 ---
 ## 🎥 Demo Video
