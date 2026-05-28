@@ -9,7 +9,8 @@
 ---
 ## 🎥 Demo Preview
 
-<video src="assets/preview.mp4" controls width="800"></video>
+[Watch Demo Video](assets/preview.mp4)
+
 ## 🎥 Demo Video
 [Download / Watch Demo Video](assets/Demo_Video.mp4)
 
