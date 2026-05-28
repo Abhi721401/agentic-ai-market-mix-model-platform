@@ -9,7 +9,7 @@
 ---
 ## 🎥 Demo Preview
 
-[Watch Demo Video](assets/preview.mp4)
+![Demo](assets/preview.gif)
 
 ## 🎥 Demo Video
 [Download / Watch Demo Video](assets/Demo_Video.mp4)
