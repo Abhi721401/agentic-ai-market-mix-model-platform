@@ -7,9 +7,6 @@
 > A production-quality, Marketing Mix Modeling platform combining econometrics, Bayesian inference, forecasting, budget optimization, explainable AI, and LLM agents — all in one Streamlit dashboard.
 
 ---
-## 🎥 Demo Preview
-
-![Demo](https://raw.githubusercontent.com/Abhi721401/agentic-ai-market-mix-model-platform/main/assets/preview.gif)
 
 ## 🎥 Demo Video
 [Download / Watch Demo Video](assets/Demo_Video.mp4)
