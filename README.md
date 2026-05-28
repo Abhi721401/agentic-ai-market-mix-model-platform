@@ -9,7 +9,7 @@
 ---
 ## 🎥 Demo Preview
 
-![Demo](assets/preview.gif)
+![Demo](https://raw.githubusercontent.com/Abhi721401/agentic-ai-market-mix-model-platform/main/assets/preview.gif)
 
 ## 🎥 Demo Video
 [Download / Watch Demo Video](assets/Demo_Video.mp4)
